@@ -6,7 +6,9 @@ is nearest and it is still one recording, one transcript, one summary.
 Transcription runs on your own machine and the audio never leaves it. Summaries are the
 one exception, and they go to the model provider *you* configure with *your* key.
 
-This repository hosts the macOS download only. The source lives elsewhere.
+This repository hosts the macOS download and the website. The source lives elsewhere.
+
+Website: https://cultivarium.github.io/switchboard-app/
 
 ## Download
 
