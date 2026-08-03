@@ -12,7 +12,7 @@ Website: https://cultivarium.github.io/switchboard-app/
 
 ## Download
 
-**[Switchboard 0.1 (build 97) for macOS](../../releases/latest)** — open the `.dmg`
+**[Switchboard 0.1 (build 99) for macOS](../../releases/latest)** — open the `.dmg`
 and drag Switchboard to Applications.
 
 Requires macOS 15 or later. Apple Silicon recommended, since transcription runs locally.
