@@ -22,7 +22,7 @@ right-click-to-open dance.
 
 ## iPhone and Apple Watch
 
-Those ship through TestFlight: https://testflight.apple.com/join/Hjx8BgBE
+Those ship through TestFlight: https://testflight.apple.com/join/umgPfY8b
 
 ## What it does
 
